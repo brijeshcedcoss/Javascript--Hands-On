@@ -63,20 +63,27 @@ const X = {
 
 // JS Functions - Exercise 1
 // Execute the function named myFunction.
-function myFunction() {
+function myFunction_1() {
   alert("Hello World!");
 }
-myFunction();
+myFunction_1();
 
 // JS Functions - Exercise 2
 // Create a function called "myFunction".
-function myFunction() {
+function myFunction_2() {
   alert("Hello World!");
 }
 
 // JS Functions - Exercise 3
 // Make the function return "Hello".
-function myFunction() {
+function myFunction_3() {
   return "Hello";
 }
-document.getElementById("demo_2").innerHTML = myFunction();
+document.getElementById("demo_2").innerHTML = myFunction_3();
+
+// JS Functions - Exercise 4
+// Make the function display "Hello" in the inner HTML of an element with the ID "demo".
+function myFunction_4() {
+    document.getElementById("demo_3").innerHTML = "Hello";
+}
+
