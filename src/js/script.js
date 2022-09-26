@@ -28,6 +28,7 @@ var firstName = "John",
   lastName = "Doe",
   age = 35;
 
+  
 // JS Operators - Exercise 1
 // Multiply 10 with 5, and alert the result:
 alert("10 * 5 = " + 10 * 5);
@@ -55,9 +56,17 @@ x *= y;
 
 // JS Data Types - Exercise 1
 // Use comments to describe the correct data type of the following variables:
-let length = 16;    //Number;
-let lastName = "Johnson";   //String;
+let length = 16; //Number;
+let lastName = "Johnson"; //String;
 const x = {
   firstName: "John",
   lastName: "Doe",
-};  //Object;
+}; //Object;
+
+
+// JS Functions - Exercise 1
+// Execute the function named myFunction.
+function myFunction() {
+  alert("Hello World!");
+}
+myFunction();
