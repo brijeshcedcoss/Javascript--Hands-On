@@ -127,3 +127,8 @@ alert(txt_2);
 let str1 = "Hello ";
 let str2 = "World!";
 alert(str1 + str2);
+
+// JS Strings Methods - Exercise 1
+// Convert the text into an UPPERCASE text:
+let txt_3 = "Hello World!";
+txt = txt_3.toUpperCase();
