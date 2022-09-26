@@ -24,8 +24,9 @@ alert("5 + 10 = " + z);
  firstName = "John";
  lastName = "Doe";
  age = 35; */
-var firstName = "John",lastName = "Doe",age = 35;
-
+var firstName = "John",
+  lastName = "Doe",
+  age = 35;
 
 // JS Operators - Exercise 1
 // Multiply 10 with 5, and alert the result:
@@ -33,8 +34,14 @@ alert("10 * 5 = " + 10 * 5);
 
 // JS Operators - Exercise 2
 // Divide 10 by 2, and alert the result:
-alert("10 / 2 = " + 10/2);
+alert("10 / 2 = " + 10 / 2);
 
 // JS Operators - Exercise 3
 // Alert the remainder when 15 is divided by 9.
-alert("15 % 9 = " + 15%9);
+alert("15 % 9 = " + (15 % 9));
+
+// JS Operators - Exercise 4
+// Use the correct assignment operator that will result in x being 15 (same as x = x + y).
+x = 10;
+y = 5;
+x += y;
