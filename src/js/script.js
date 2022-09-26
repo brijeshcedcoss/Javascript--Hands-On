@@ -18,3 +18,10 @@ var x = 5;
 var y = 10;
 var z = x + y;
 alert("5 + 10 =" + z);
+
+// JS Variables - Exercise 5
+/* On one single line, declare three variables with the following names and values:
+ firstName = "John";
+ lastName = "Doe";
+ age = 35; */
+var firstName = "John",lastName = "Doe",age = 35;
