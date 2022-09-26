@@ -94,3 +94,11 @@ const person = {
   lastName: "Doe",
 };
 alert(person.firstName);
+
+// JS Objects - Exercise 2
+// Add the following property and value to the person object: country: Norway.
+const person_2 = {
+  firstName: "John",
+  lastName: "Doe",
+  country: "Norway",
+};
