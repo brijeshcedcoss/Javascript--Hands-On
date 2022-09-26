@@ -132,3 +132,10 @@ alert(str1 + str2);
 // Convert the text into an UPPERCASE text:
 let txt_3 = "Hello World!";
 txt = txt_3.toUpperCase();
+
+// JS Strings Methods - Exercise 2
+// Use the slice method to return the word "bananas".
+let txt_4 = "I can eat bananas all day";
+let t_slice = txt_4.slice(10, 17);
+
+
