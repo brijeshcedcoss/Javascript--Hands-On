@@ -84,6 +84,13 @@ document.getElementById("demo_2").innerHTML = myFunction_3();
 // JS Functions - Exercise 4
 // Make the function display "Hello" in the inner HTML of an element with the ID "demo".
 function myFunction_4() {
-    document.getElementById("demo_3").innerHTML = "Hello";
+  document.getElementById("demo_3").innerHTML = "Hello";
 }
 
+// JS Objects - Exercise 1
+// Alert "John" by extracting information from the person object.
+const person = {
+  firstName: "John",
+  lastName: "Doe",
+};
+alert(person.firstName);
