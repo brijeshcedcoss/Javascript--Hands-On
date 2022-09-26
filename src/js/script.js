@@ -148,4 +148,9 @@ txt_5 = txt_5.replace("Hello", "Welcome");
 let txt_6 = "Hello World";
 txt_6 = txt_6.toUpperCase();
 
+// JS Strings Methods - Exercise 5
+// Convert the value of txt to lower case.
+let txt_7 = "Hello World";
+txt_7 = txt_7.toLowerCase(); 
+
 
