@@ -70,7 +70,7 @@ myFunction_1();
 
 // JS Functions - Exercise 2
 // Create a function called "myFunction".
-function myFunction_2() {
+function myFunction() {
   alert("Hello World!");
 }
 
