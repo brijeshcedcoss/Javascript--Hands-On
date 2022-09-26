@@ -70,7 +70,13 @@ myFunction();
 
 // JS Functions - Exercise 2
 // Create a function called "myFunction".
-
 function myFunction() {
   alert("Hello World!");
 }
+
+// JS Functions - Exercise 3
+// Make the function return "Hello".
+function myFunction() {
+  return "Hello";
+}
+document.getElementById("demo_2").innerHTML = myFunction();
