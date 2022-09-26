@@ -30,3 +30,7 @@ var firstName = "John",lastName = "Doe",age = 35;
 // JS Operators - Exercise 1
 // Multiply 10 with 5, and alert the result:
 alert("10 * 5 = " + 10 * 5);
+
+// JS Operators - Exercise 2
+// Divide 10 by 2, and alert the result:
+alert("10 / 2 = " + 10/2);
