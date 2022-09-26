@@ -138,4 +138,9 @@ txt = txt_3.toUpperCase();
 let txt_4 = "I can eat bananas all day";
 let t_slice = txt_4.slice(10, 17);
 
+// JS Strings Methods - Exercise 3
+// Use the correct String method to replace the word "Hello" with the word "Welcome".
+let txt_5 = "Hello World";
+txt_5 = txt_5.replace("Hello", "Welcome");
+
 
