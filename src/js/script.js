@@ -143,4 +143,9 @@ let t_slice = txt_4.slice(10, 17);
 let txt_5 = "Hello World";
 txt_5 = txt_5.replace("Hello", "Welcome");
 
+// JS Strings Methods - Exercise 4
+// Convert the value of txt to upper case.
+let txt_6 = "Hello World";
+txt_6 = txt_6.toUpperCase();
+
 
