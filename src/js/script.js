@@ -34,3 +34,7 @@ alert("10 * 5 = " + 10 * 5);
 // JS Operators - Exercise 2
 // Divide 10 by 2, and alert the result:
 alert("10 / 2 = " + 10/2);
+
+// JS Operators - Exercise 3
+// Alert the remainder when 15 is divided by 9.
+alert("15 % 9 = " + 15%9);
