@@ -111,3 +111,11 @@ const person_3 = {
 };
 alert(person_3.name + " is " + person_3.age);
 
+// JS Strings - Exercise 1
+// Use the length property to alert the length of txt.
+let txt = "Hello World!";
+let len = txt.length;
+alert("Length of Hello World! "+ len);
+
+
+
