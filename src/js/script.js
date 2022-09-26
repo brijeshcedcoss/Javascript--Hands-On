@@ -115,7 +115,9 @@ alert(person_3.name + " is " + person_3.age);
 // Use the length property to alert the length of txt.
 let txt = "Hello World!";
 let len = txt.length;
-alert("Length of Hello World! "+ len);
+alert("Length of Hello World! " + len);
 
-
-
+// JS Strings - Exercise 2
+// Use escape characters to alert We are "Vikings".
+let txt_2 = "We are \"Vikings\"";
+alert(txt_2);
