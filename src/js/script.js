@@ -110,3 +110,4 @@ const person_3 = {
   age: 50,
 };
 alert(person_3.name + " is " + person_3.age);
+
