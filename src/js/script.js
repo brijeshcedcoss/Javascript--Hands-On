@@ -119,5 +119,11 @@ alert("Length of Hello World! " + len);
 
 // JS Strings - Exercise 2
 // Use escape characters to alert We are "Vikings".
-let txt_2 = "We are \"Vikings\"";
+let txt_2 = 'We are "Vikings"';
 alert(txt_2);
+
+// JS Strings - Exercise 3
+// Concatenate the two strings to alert "Hello World!".
+let str1 = "Hello ";
+let str2 = "World!";
+alert(str1 + str2);
