@@ -17,7 +17,7 @@ document.getElementById("demo").innerHTML = x + y;
 var x = 5;
 var y = 10;
 var z = x + y;
-alert("5 + 10 =" + z);
+alert("5 + 10 = " + z);
 
 // JS Variables - Exercise 5
 /* On one single line, declare three variables with the following names and values:
@@ -25,3 +25,8 @@ alert("5 + 10 =" + z);
  lastName = "Doe";
  age = 35; */
 var firstName = "John",lastName = "Doe",age = 35;
+
+
+// JS Operators - Exercise 1
+// Multiply 10 with 5, and alert the result:
+alert("10 * 5 = " + 10 * 5);
