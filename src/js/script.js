@@ -308,3 +308,11 @@ while (i_1 < 10) {
   console.log(i_1);
   i++;
 }
+
+// JS While Loops - Exercise 2
+// Create a loop that runs as long as i is less than 10, but increase i with 2 each time.
+let i_2 = 0;
+while (i_2 < 10) {
+  console.log(i_2);
+  i_2 = i_2 + 2;
+}
