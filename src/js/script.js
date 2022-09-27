@@ -219,3 +219,7 @@ let x = Math.max(10, 20);
 // JS Math - Exercise 3
 // Use the correct Math method to round a number to the nearest integer.
 let x = Math.round(5.3);
+
+// JS Math - Exercise 4
+// Use the correct Math method to get the square root of 9.
+let x = Math.sqrt(9);
