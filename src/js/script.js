@@ -235,3 +235,9 @@ alert(x_5 > y_5);
 x_6 = 10;
 y_6 = 5;
 alert(x_6 == y_6);
+
+// JS Comparisons - Exercise 3
+// Choose the correct comparison operator to alert true, when x is NOT equal to y.
+x_7 = 10;
+y_7 = 5;
+alert(x_7 != y_7);
