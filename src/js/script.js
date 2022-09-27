@@ -229,3 +229,9 @@ let m_3 = Math.sqrt(9);
 x_5 = 10;
 y_5 = 5;
 alert(x_5 > y_5);
+
+// JS Comparisons - Exercise 2
+// Choose the correct comparison operator to alert true, when x is equal to y.
+x_6 = 10;
+y_6 = 5;
+alert(x_6 == y_6);
