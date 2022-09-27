@@ -207,3 +207,8 @@ month = d_2.getMonth();
 // Use the correct Date method to set the year of a date object to 2020.
 const d_3 = new Date();
 d_3.setFullYear(2020);
+
+// JS Math - Exercise 1
+// Use the correct Math method to create a random number.
+let r = Math.random();
+
