@@ -316,3 +316,12 @@ while (i_2 < 10) {
   console.log(i_2);
   i_2 = i_2 + 2;
 }
+
+// JS Break Loops - Exercise 1
+// Make the loop stop when i is 5.
+for (i = 0; i < 10; i++) {
+  console.log(i);
+  if (i == 5) {
+    break;
+  }
+}
