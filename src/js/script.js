@@ -177,3 +177,8 @@ fruits.pop();
 // Use the correct Array method to add "Kiwi" to the fruits array.
 const fruits_2 = ["Banana", "Orange", "Apple"];
 fruits.push("Kiwi");
+
+// JS Array Methods - Exercise 3
+// Use the splice() method to remove "Orange" and "Apple" from fruits.
+const fruits_3 = ["Banana", "Orange", "Apple", "Kiwi"];
+fruits.splice(1, 2);
