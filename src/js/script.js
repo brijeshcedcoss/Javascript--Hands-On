@@ -197,3 +197,8 @@ alert(d);
 // Use the correct Date method to extract the year (four digits) out of a date object.
 const d_1 = new Date();
 year = d_1.getFullYear();
+
+// JS Dates - Exercise 3
+// Use the correct Date method to get the month (0-11) out of a date object.
+const d_2 = new Date();
+month = d_2.getMonth();
