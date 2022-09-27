@@ -214,12 +214,18 @@ let r = Math.random();
 
 // JS Math - Exercise 2
 // Use the correct Math method to return the largest number of 10 and 20.
-let x = Math.max(10, 20);
+let m = Math.max(10, 20);
 
 // JS Math - Exercise 3
 // Use the correct Math method to round a number to the nearest integer.
-let x = Math.round(5.3);
+let m_2 = Math.round(5.3);
 
 // JS Math - Exercise 4
 // Use the correct Math method to get the square root of 9.
-let x = Math.sqrt(9);
+let m_3 = Math.sqrt(9);
+
+// JS Comparisons - Exercise 1
+// Choose the correct comparison operator to alert true, when x is greater than y.
+x_5 = 10;
+y_5 = 5;
+alert(x_5 > y_5);
