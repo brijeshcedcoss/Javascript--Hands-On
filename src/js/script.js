@@ -155,10 +155,15 @@ txt_7 = txt_7.toLowerCase();
 
 // JS Array - Exercise 1
 // Get the value "Volvo" from the cars array.
-const cars = ["Saab", "Volvo", "BMW"];
-let x = cars[1];
+const cars_3 = ["Saab", "Volvo", "BMW"];
+let first = cars_3[1];
 
 // JS Array - Exercise 2
 // Change the first item of cars to "Ford".
-const cars_2 = ["Volvo", "Jeep", "Mercedes"];
-cars[0] = "Ford";
+const cars_4 = ["Volvo", "Jeep", "Mercedes"];
+cars_4[0] = "Ford";
+
+// JS Array - Exercise 3
+// Alert the number of items in an array, using the correct Array property.
+const cars_5 = ["Volvo", "Jeep", "Mercedes"];
+alert(cars_5.length);
