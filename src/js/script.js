@@ -212,3 +212,6 @@ d_3.setFullYear(2020);
 // Use the correct Math method to create a random number.
 let r = Math.random();
 
+// JS Math - Exercise 2
+// Use the correct Math method to return the largest number of 10 and 20.
+let x = Math.max(10, 20);
