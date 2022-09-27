@@ -241,3 +241,9 @@ alert(x_6 == y_6);
 x_7 = 10;
 y_7 = 5;
 alert(x_7 != y_7);
+
+// JS Comparisons - Exercise 4
+// Choose the correct conditional (ternary) operator to alert "Too young" if age is less than 18, otherwise alert "Old enough".
+var age = 28;
+var voteable = age < 18 ? "Too young" : "Old enough";
+alert(voteable);
