@@ -167,3 +167,8 @@ cars_4[0] = "Ford";
 // Alert the number of items in an array, using the correct Array property.
 const cars_5 = ["Volvo", "Jeep", "Mercedes"];
 alert(cars_5.length);
+
+// JS Array Methods - Exercise 1
+// Use the correct Array method to remove the last item of the fruits array.
+const fruits = ["Banana", "Orange", "Apple"];
+fruits.pop();
