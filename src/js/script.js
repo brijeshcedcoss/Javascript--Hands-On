@@ -151,6 +151,9 @@ txt_6 = txt_6.toUpperCase();
 // JS Strings Methods - Exercise 5
 // Convert the value of txt to lower case.
 let txt_7 = "Hello World";
-txt_7 = txt_7.toLowerCase(); 
+txt_7 = txt_7.toLowerCase();
 
-
+// JS Array - Exercise 1
+// Get the value "Volvo" from the cars array.
+const cars = ["Saab", "Volvo", "BMW"];
+let x = cars[1];
