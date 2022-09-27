@@ -300,3 +300,11 @@ const fruits_5 = ["Apple", "Banana", "Orange"];
 for (x of fruits_5) {
   console.log(x);
 }
+
+// JS While Loops - Exercise 1
+// Create a loop that runs as long as i is less than 10.
+let i_1 = 0;
+while (i_1 < 10) {
+  console.log(i_1);
+  i++;
+}
