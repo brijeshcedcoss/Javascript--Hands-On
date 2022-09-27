@@ -157,3 +157,8 @@ txt_7 = txt_7.toLowerCase();
 // Get the value "Volvo" from the cars array.
 const cars = ["Saab", "Volvo", "BMW"];
 let x = cars[1];
+
+// JS Array - Exercise 2
+// Change the first item of cars to "Ford".
+const cars_2 = ["Volvo", "Jeep", "Mercedes"];
+cars[0] = "Ford";
