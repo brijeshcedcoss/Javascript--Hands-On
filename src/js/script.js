@@ -176,19 +176,24 @@ fruits.pop();
 // JS Array Methods - Exercise 2
 // Use the correct Array method to add "Kiwi" to the fruits array.
 const fruits_2 = ["Banana", "Orange", "Apple"];
-fruits.push("Kiwi");
+fruits_2.push("Kiwi");
 
 // JS Array Methods - Exercise 3
 // Use the splice() method to remove "Orange" and "Apple" from fruits.
 const fruits_3 = ["Banana", "Orange", "Apple", "Kiwi"];
-fruits.splice(1, 2);
+fruits_3.splice(1, 2);
 
 // JS Array Sort - Exercise 1
 // Use the correct Array method to sort the fruits array alphabetically.
 const fruits_4 = ["Banana", "Orange", "Apple", "Kiwi"];
-fruits.sort();
+fruits_4.sort();
 
 // JS Dates - Exercise 1
 // Create a Date object and alert the current date and time.
 const d = new Date();
 alert(d);
+
+// JS Dates - Exercise 2
+// Use the correct Date method to extract the year (four digits) out of a date object.
+const d_1 = new Date();
+year = d_1.getFullYear();
