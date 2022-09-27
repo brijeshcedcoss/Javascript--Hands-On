@@ -37,12 +37,22 @@
     <script>
       document.getElementById("demo_4").innerHTML = "Hello";
     </script>
+
     <!-- JS HTML DOM - Exercise 2 -->
     <!-- Use the getElementsByTagName method to find the first <p> element, and change its text to "Hello". -->
-      <p id="demo_5"></p>
-      <script>
-        document.getElementsByTagName("p")[4].innerHTML = "Hello";
-      </script>
-      <script src="./js/script.js"></script>
+    <p id="demo_5"></p>
+    <script>
+      document.getElementsByTagName("p")[4].innerHTML = "Hello";
+    </script>
+
+    <!-- JS HTML DOM - Exercise 3 -->
+    <!-- Change the text of the first element that has the class name "test". -->
+    <p class="test"></p>
+    <p class="test"></p>
+    <script>
+      document.getElementsByClassName("test")[0].innerHTML = "Hello";
+    </script>
+
+    <script src="./js/script.js"></script>
   </body>
 </html>
