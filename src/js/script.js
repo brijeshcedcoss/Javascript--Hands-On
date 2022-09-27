@@ -215,3 +215,7 @@ let r = Math.random();
 // JS Math - Exercise 2
 // Use the correct Math method to return the largest number of 10 and 20.
 let x = Math.max(10, 20);
+
+// JS Math - Exercise 3
+// Use the correct Math method to round a number to the nearest integer.
+let x = Math.round(5.3);
