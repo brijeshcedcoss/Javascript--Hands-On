@@ -247,3 +247,9 @@ alert(x_7 != y_7);
 var age = 28;
 var voteable = age < 18 ? "Too young" : "Old enough";
 alert(voteable);
+
+// JS Conditions - Exercise 1
+// Fix the if statement to alert "Hello World" if x is greater than y
+if (x > y) {
+  alert("Hello World");
+}
