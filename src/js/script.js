@@ -293,3 +293,10 @@ let i;
 for (i = 0; i < 10; i++) {
   console.log(i);
 }
+
+// JS For Loops - Exercise 2
+// Create a loop that runs through each item in the fruits array.
+const fruits_5 = ["Apple", "Banana", "Orange"];
+for (x of fruits_5) {
+  console.log(x);
+}
